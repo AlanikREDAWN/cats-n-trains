@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://cjk000iv1t7fv"]
+
+[node name="main" type="Node2D"]
+
+[node name="trainTrack" type="TileMapLayer" parent="."]
